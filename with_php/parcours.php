@@ -5,14 +5,14 @@
 <head>
     <meta charset="UTF-8" http-equiv="X-UA-Compatible" content="IE=edge"
         name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles/parcours.css">
+    <link rel="stylesheet" href="../styles/parcours.css">
     <title>Corentin Bourgeois : mon parcours</title>
 </head>
 
 <?php include 'header.html'; ?>
 
 <div class="box first-box left-box">
-    <img class="image left-image width" src="images/logos/Logo-avec-phrase-daccroche-WordPress.png">
+    <img class="image left-image width" src="../images/logos/Logo-avec-phrase-daccroche-WordPress.png">
     <div class="text right-text">
         <h3>Mes années de Première et terminale</h3>
         <p>Après mon année de seconde en 2015-16, il m'a fallu choisir un domaine spéciale dans lequel m'engager. N'étant pas à laise en langues ni en rédaction, j'ai mis de coté les filiaires litéraire et scientifique.</p>
@@ -23,7 +23,7 @@
 </div>
 
 <div class="box right-box">
-    <img class="image left-image height" src="images/logos/logo_lycee_v2.jpg">
+    <img class="image left-image height" src="../images/logos/logo_lycee_v2.jpg">
     <div class="text right-text">
         <h3>Mes années de BTS</h3>
         <p>Mon diplôme en poche, je me suis inscrit au lycée Jules Ferry de Versailles (78) pour deux nouvelles années de <b>BTS (Brevet de Technicien Supérieur) SN (Systèmes Numériques) option EC (Electronique et Communications)</b>.</p>
@@ -34,7 +34,7 @@
 </div>
 
 <div class="box left-box">
-    <img class="image left-image height" src="images/logos/1544451146350.jfif">
+    <img class="image left-image height" src="../images/logos/1544451146350.jfif">
     <div class="text right-text">
         <h3>Mon année de prépa</h3>
         <p>Je n'ai jamais été un excellent élève, j'étais même plutôt dans la moyenne, mais je faisais de mon mieux. Peut-être pas tout le temps effectivement, mais je n'étais pas poussé par des facteurs extérieur me forçant à tout donner.</p>
@@ -47,7 +47,7 @@
 </div>
 
 <div class="box right-box">
-    <img class="image left-image height" src="images/logos/IUT-D-ORSAY-v.jpg">
+    <img class="image left-image height" src="../images/logos/IUT-D-ORSAY-v.jpg">
     <div class="text right-text">
         <h3>Mon année de DUT</h3>
         <p>Après avoir lutter une année complète en prépa, je me suis réorienté en informatique avec l'<b>année spécial</b> de l'<b>IUT (Institut Universitaire de Technologie) d'Orsay</b>.</p>
@@ -59,7 +59,7 @@
 </div>
 
 <div class="box left-box">
-    <img class="image left-image" src="images/logos/logo_header.png" style="height: 100px">
+    <img class="image left-image" src="../images/logos/logo_header.png" style="height: 100px">
     <div class="text right-text">
         <h3>Mon année de LP</h3>
         <p>Pour tout dire, je n'en peut plus du milieu scholaire. Je veux allez travailler et ne plus jamais remettre les pieds dans une école. Je ne fonctionne pas du tout de la façon dont ce systeme voudrais et nous ne somme pas compatible. Malgré tout, je vise depuis le début au moins bac +3 alors je continue.</p>
@@ -68,8 +68,6 @@
         <p>Cependant l'année n'est pas terminée du tout donc je ne peux pas encore dire beaucoup, mais pour l'instant je dirais que ça ce passe plutot bien.</p>
     </div>
 </div>
-
-
 
 <div class="box right-box hidden">
     <p> the end ^^ </p>

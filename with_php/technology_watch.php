@@ -5,7 +5,7 @@
 <head>
     <meta charset="UTF-8" http-equiv="X-UA-Compatible" content="IE=edge"
         name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles/technology_watch.css">
+    <link rel="stylesheet" href="../styles/technology_watch.css">
     <title>Corentin Bourgeois : ma veille technologique</title>
 </head>
 
