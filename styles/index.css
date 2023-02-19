@@ -1,0 +1,38 @@
+@import url(style.css);
+
+/* ========================================
+    titre au milieu
+======================================== */
+
+.title {
+    text-align: center;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+
+    font-family: "Josefin Sans", sans-serif;
+    font-style: italic;
+    font-size: 225%;
+    text-shadow: 0 0 20px white;
+}
+
+.title h1 {
+    margin-bottom: 0.2em;
+}
+
+.title h2 {
+    margin-top: 0.2em;
+}
+
+ul.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    list-style: none;
+    text-align: center;
+    margin-bottom: 0;
+    padding: 0;
+}

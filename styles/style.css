@@ -1,0 +1,72 @@
+/* ========================================
+    globale
+======================================== */
+
+body.global {
+    background-image: url("../images/wp9368950-your-name-4k-pc-wallpapers.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+
+/* ========================================
+    bar de menu horizontale
+======================================== */
+
+ul.line-menu {
+    list-style: none;
+    text-align: right;
+    margin-bottom: 0;
+    padding: 0;
+}
+
+ul.line-menu li {
+    display: inline-block;
+    padding: 0 0.5rem;
+    margin: 0;
+    min-width: 0rem;
+
+    font-family: "Open Sans", sans-serif;
+    text-align: center;
+    text-decoration: underline;
+    text-shadow: 0 0 5px rgb(255, 255, 255);
+}
+
+ul.line-menu li:hover {
+    background-color: wheat;
+    border-radius: 5px;
+}
+
+a.link {
+    color: black;
+    text-decoration: none;
+}
+
+/* ========================================
+    bandeau avec le footer
+======================================== */
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    height: 65px;
+    padding-top: 10px;
+    z-index: 100;
+}
+
+ul li img {
+    height: 20px;
+    vertical-align: middle;
+    margin-right: 0.5rem;
+}
+
+.hidden {
+    opacity: 0;
+}

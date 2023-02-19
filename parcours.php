@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" http-equiv="X-UA-Compatible" content="IE=edge"
+        name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles/parcours.css">
+    <title>Corentin Bourgeois : mon parcours</title>
+</head>
+
+<?php include 'header.html'; ?>
+
+<div class="box first-box left-box">
+    <img class="image left-image width" src="images/logos/Logo-avec-phrase-daccroche-WordPress.png">
+    <div class="text right-text">
+        <h3>Mes années de Première et terminale</h3>
+        <p>Après mon année de seconde en 2015-16, il m'a fallu choisir un domaine spéciale dans lequel m'engager. N'étant pas à laise en langues ni en rédaction, j'ai mis de coté les filiaires litéraire et scientifique.</p>
+        <p>J'ai donc commencer par un baccaloréat technologique en <b>STI2D (Sciences et Technologies de l'Industrie et du Développement Durable)</b>, spécialité <b>SIN (Systèmes d'Informations et du Numérique)</b>.</p>
+        <p>J'ai ainsi passé deux ans au Lycée Parc de Vilgénis à Massy (91), entre 2016 et 2018, avant d'avoir mon diplôme.</p>
+        <p>C'est durant mon année de première que j'ai commencer à lire en anglais pour améliorer mon niveau en m'amusant, mais uniquement des BDs et des mangas car je débutait seulement.</p>
+    </div>
+</div>
+
+<div class="box right-box">
+    <img class="image left-image height" src="images/logos/logo_lycee_v2.jpg">
+    <div class="text right-text">
+        <h3>Mes années de BTS</h3>
+        <p>Mon diplôme en poche, je me suis inscrit au lycée Jules Ferry de Versailles (78) pour deux nouvelles années de <b>BTS (Brevet de Technicien Supérieur) SN (Systèmes Numériques) option EC (Electronique et Communications)</b>.</p>
+        <p>J'y suis donc resté de 2018 à 2020, en logement étudiant, le temps d'obtenir mon diplôme.</p>
+        <p>J'en ai aussi profiter pour passer mon code puis mon permit, me motivant en me disant que je n'aurais surement plus de temps après cela.</p>
+        <p>Durant la première année, j'ai aussi monté le niveau de ma pratique de l'anglais, en me mettant à traduire des passage de romans de l'anglais au français moi même, même si je devait utiliser google traduction.</p>
+    </div>
+</div>
+
+<div class="box left-box">
+    <img class="image left-image height" src="images/logos/1544451146350.jfif">
+    <div class="text right-text">
+        <h3>Mon année de prépa</h3>
+        <p>Je n'ai jamais été un excellent élève, j'étais même plutôt dans la moyenne, mais je faisais de mon mieux. Peut-être pas tout le temps effectivement, mais je n'étais pas poussé par des facteurs extérieur me forçant à tout donner.</p>
+        <p>Mais en m'engageant dans la <b>CPGE (Classe Préparatoire aux Grande Ecoles) ATS (Adaptation Technicien Supérieur) Ingénierie Industrielle</b>, j'ai changé de mindset. J'avais été prévenu, ce sera dur. Il me faudra faire encore plus. Et ce non pas "juste" parce que c'est une Prépa, mais aussi parce que c'est une Prépa en un an. Et c'est ce que j'ai fais, mais en vain. Le rythme étais bien trop soutenue pour moi. Plus, je retient si je comprend les choses. Là, pas le temps de comprendre, c'étais du par coeur et je ne m'en suis pas sortie.</p>
+        <p>Mais je n'ai pas laché. Je savais que je n'y arriverais pas mais j'ai continué. Je suis allé jusqu'au bout de cette année infernale en faisant de mon mieux pour garder mon nez hord de l'eau, puisque ma tête était submergée depuis longtemps. J'ai continué à travaillé en me disant que tout est bon à prendre, et que cette occasion ne se représenterait pas.</p>
+        <p>A la fin de l'année, je me faisais pas d'illusions. Même un miracle ne me ferait pas réussir les concours. Mais je les ai passé quand même, après tout, je voulais savoir comment ça ce passait (c'est nul, c'est juste un examun normale mais en plus dur, je ne sais pas à quoi je m'attendais, mais bon). Après cela, je n'ai même pas regrader les résultats, je savais que j'avais échoué.</p>
+        <p>Définitivement, mon inscription à cette année était une erreur. Mais je ne regrette pas de l'avoir faite. J'y ai fait l'experience d'un travail plus intense que jamais auparavant, et me suis rendu compte que de toute façon, ce n'était pas ce que je voulais faire. Je voulais coder des trucs.</p>
+        <p>Même si j'y passais beaucoup moins de temps, j'ai continuer à pratiquer mon anglais et ai même réussi à lire mon premier webnovel (un roman publié sur le net) complètement depuis l'anglais et sans passer par un outil de traduction.</p>
+    </div>
+</div>
+
+<div class="box right-box">
+    <img class="image left-image height" src="images/logos/IUT-D-ORSAY-v.jpg">
+    <div class="text right-text">
+        <h3>Mon année de DUT</h3>
+        <p>Après avoir lutter une année complète en prépa, je me suis réorienté en informatique avec l'<b>année spécial</b> de l'<b>IUT (Institut Universitaire de Technologie) d'Orsay</b>.</p>
+        <p>Ce qui rendais cette année "spéciale", c'est que comme pour mon année de Prépa, elle était elle aussi condensé pour ne durer qu'une seule année. Cependant, dès les premiers cours cours, j'ai su que ce choix était le bon.</p>
+        <p>Au fur et à mesure que l'année avançait, j'apprenais de nouvelles choses et, même si je n'étais pas spécialement bon, presque toutes les matières étaient interressantes et amusante. Les seules matières qui ne me plaisaient pas, mais alors pas du tout, étaient Gestion de projet, droit et réseaux. Mis à part cela, cette année fut, et ceux malgré les nombreuses difficultés, l'un des meilleurs choix que j'aurais pu faire. C'était compliqué, mais c'était bien.</p>
+        <p>Malheureusement, c'était la dernière année que l'IUT d'Orsay proposais cette magnifique formation. Elle n'existe plus, et je suis heureux d'avoir pu y participer.</p>
+        <p>Au niveau de ma pratique de l'anglais, je lis régulièrement des webnovels et mangas en anglais et le format vidéo et série ne me dérange plus, même sans sous-titre.</p> 
+    </div>
+</div>
+
+<div class="box left-box">
+    <img class="image left-image" src="images/logos/logo_header.png" style="height: 100px">
+    <div class="text right-text">
+        <h3>Mon année de LP</h3>
+        <p>Pour tout dire, je n'en peut plus du milieu scholaire. Je veux allez travailler et ne plus jamais remettre les pieds dans une école. Je ne fonctionne pas du tout de la façon dont ce systeme voudrais et nous ne somme pas compatible. Malgré tout, je vise depuis le début au moins bac +3 alors je continue.</p>
+        <p>C'est pour cette raison que je suis parti en LP (Liscence Professionnelle) MIAW (Métiers de l'informatique : applications web) option DAWII (Développement avancé d'applications Web Internet et Intranet). De cette façon, même si je dépend du milieu scholaire, ce n'est plus qu'à moitiée. Je travail également dans l'entreprise <a href="https://www.202-ecommerce.com/" target="_blank">202-ecommerce</a>, une entreprise spécialisée <a href="https://www.prestashop.com/fr" target="_blank">PrestaShop</a> où j'apprend énormément et dans une ambiance géniale. Bref, je les adores.</p>
+        <p>Mais je n'apprend pas de nouvelles choses qu'en entreprise. J'ai des cours et je dois vraiment remercier mon année à Orsay pour ce que j'y ai appris car sans ce bagage, je n'arriverais surement pas cette année.</p>
+        <p>Cependant l'année n'est pas terminée du tout donc je ne peux pas encore dire beaucoup, mais pour l'instant je dirais que ça ce passe plutot bien.</p>
+    </div>
+</div>
+
+
+
+<div class="box right-box hidden">
+    <p> the end ^^ </p>
+</div>
+
+
+<?php include 'footer.html'; ?>

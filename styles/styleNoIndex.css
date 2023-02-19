@@ -1,0 +1,117 @@
+@import url(style.css);
+
+/* ========================================
+    bandeau avec le header
+======================================== */
+
+/* je n'arrive pas à cacher tout ce qui passe derrière un bandeau sans lui mettre un font totalement oppaque */
+
+.band {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    position: fixed;
+    top: 0;
+    height: 100px;
+    width: 100%;
+
+    /* background-image: url("../images/Capture\ d’écran\ 2023-02-18\ 193735.png"); */
+    background: rgba(233, 231, 231, 0.3);
+    background-position:center;
+    background-size: cover;
+
+    border-bottom: rgb(58, 57, 57);
+    border-bottom-style: solid;
+    z-index: 100;
+}
+
+/* ===== titre =============== */
+
+.title {
+    text-align: left;
+    top: 10%;
+    margin-left: 3%;
+
+    font-family: "Josefin Sans", sans-serif;
+    font-style: italic;
+    font-size: 100%;
+    text-shadow: 0 0 20px white;
+}
+
+.title h1 {
+    margin-bottom: 0.2em;
+}
+
+.title h2 {
+    margin-top: 0.2em;
+}
+
+/* ===== menu =============== */
+
+ul.header {
+    margin-right: 3%;
+}
+
+/* ========================================
+    le contenu de la page
+======================================== */
+
+main {
+    width: 90%;
+    z-index: 50;
+}
+
+.box {
+    width: 80%;
+    padding: 10px 30px 10px 30px; /* haut droite bas gauche */
+    margin-top: 15px;
+
+    background: rgba(233, 231, 231, 0.3);
+    border-radius: 25%;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.first-box {
+    margin-top: calc(100px + 25px);
+}
+
+.left-box {
+    float: left;
+}
+
+.right-box {
+    float: right;
+}
+
+/* ===== le contenu d'une boite ===============*/
+
+img.image {
+    border-radius: 10px;
+}
+
+img.left-image {
+    margin-right: 20px;
+}
+
+img.width {
+    width: 150px;
+    height: auto;
+}
+
+img.height {
+    height: 150px;
+    width: auto;
+}
+
+.right-text {
+    flex: 1;
+}
+
+.text {
+    font-family: "Josefin Sans", sans-serif;
+    text-shadow: 0 0 5px white;
+}
